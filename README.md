@@ -1,2 +1,1 @@
-# legend-of-es.github.io
-# legend-of-es.github.io
+# A Web-Based Action Game in Vanilla JavaScript
